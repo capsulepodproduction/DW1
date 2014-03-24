@@ -108,7 +108,7 @@
             } else {
                 nivoCaption.stop().fadeOut(settings.animSpeed);
             }
-        }
+        };
         
         //Process initial  caption
         processCaption(settings);
