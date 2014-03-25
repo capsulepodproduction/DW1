@@ -231,7 +231,7 @@ h4{
 	position: relative;
 	padding:15px;
 	margin-top:330px;
-	background:#FFFFFF
+	background:#FFFFFF;
 	border:3px #CDCDCD;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
@@ -411,7 +411,7 @@ footer{
 .footer_left{
 	float:left;
 	padding:12px;
-	margin-botttom:-55px;
+	margin-bottom:-55px;
 	width:170px;
 	margin-right:76px;
 }
@@ -596,7 +596,7 @@ nav ul li a:hover{
 
 .pagination {
 	margin-top:100px;
-	width:100x;
+	width:100px;
 	position:absolute;
 	top:180px;
 	left:880px;
@@ -735,7 +735,7 @@ body{
 	width:100%;
 	z-index:8;
 	font-family: arial, helvetica, sans-serif;
-	text-transform:uppercase
+	text-transform:uppercase;
 	padding: 5px 10px;
 	opacity: 0.8;
 	overflow: hidden;
