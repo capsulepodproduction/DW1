@@ -22,7 +22,10 @@ gem 'coffee-rails', '~> 4.0.0'
 
 gem 'heroku'
 
-gem 'rails_12factor'
+group :production do
+  gem 'rails_12factor'
+end
+
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
