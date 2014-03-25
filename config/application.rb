@@ -7,6 +7,7 @@ require 'rails/all'
 Bundler.require(:default, Rails.env)
 config.assets.precompile += %w( contact.css )
 
+
 module DharmaWorld
   class Application < Rails::Application
     # Settings in config/environments/* take precedence over those specified here.
